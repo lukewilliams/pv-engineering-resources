@@ -24,6 +24,7 @@ Curated list of resources and articles related to PV Design.
 
 * [SolarEdge Designer](https://www.solaredge.com/products/installer-tools/designer#/) - Always use SolarEdge Designer to confirm compatibility of module and Power Optimiser
     -   [Basic Design](https://sitedesigner.solaredge.com/sites/basic-design) - A tool for quickly checking compatibility without building the entire site
+* [SketchUp Pro](https://www.sketchup.com/products/sketchup-pro) - Full-featured desktop modeler, built to make anything your imagination can create.
 
 ## Related Resources
 
