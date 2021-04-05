@@ -7,6 +7,8 @@ Curated list of resources and articles related to PV Design.
     -   [Power Factor](#power-factor)
     -   [System Layout Design](#system-layout-design)
     -   [Isolator Sizing](#isolator-sizing)
+    -   [Network & VPPs](#network-and-vpps)
+    -   [Cell Technologies](#cell-technologies)
 -   [Online Courses](#online-courses)
     -   [GSES Courses](#gses-courses)
 -   [Software and Web-based tools](#software-and-web-based-tools)
@@ -32,9 +34,17 @@ Curated list of resources and articles related to PV Design.
 
 *   [A Guide to AS/NZS 5033:2014 Amendment 2 Changes to Isolator Sizing](https://www.gses.com.au/a-guide-to-as-nzs-50332014-amendment-2-changes-to-isolator-sizing/) - AS/NZS 5033:2014 Amendment 2 changes to sizing isolators came into effect on 28th June 2019. The new requirements simplify the process of selecting an isolator and ensure that thermal effects are taken into account. It addresses fire risk issues and improves design and installation practices. `June 17, 2019 by GSES`
 
-### Network & VPPs
+### Network and VPPs
 
 *   [Implementing Virtual Power Plants (VPP) in Australia](https://www.gses.com.au/implementing-virtual-power-plants-vpp-in-australia/) - A virtual power plant (VPP) has the potential to make Australia’s grid infrastructure more resilient. Currently, VPPs can reduce the pressure on the grid during times of high demand. It does this by linking small-scale independent decentralised generators like PV systems and batteries into a network, with communication and controls to allow the units to act together like a conventional power station controlled by an operator. In the near future, VPPs might also have the ability to trade electricity when the wholesale electricity prices are high. `November 25, 2020 by GSES`
+
+### Cell Technologies
+
+*   [High Efficiency Cells: PERC and Half Cut](https://www.gses.com.au/high-efficiency-cells-perc-and-half-cut/) - Commercial adoption typically occurs when these innovations have proven to be scalable in the manufacturing process as well as being reliable on-site. Case in point, the Passivated Emitter and Rear Cell (PERC) solar cell, developed in Australia in the 1980s helped to establish a baseline efficiency of 20%. However, it has only been established as the most competitive crystalline-silicon technology in use as of 2015, with sales exceeding US $10 billion in 2017 and predicted to exceed US $1 Trillion by 2040. PERC cells have become the standard technology type amongst many module manufacturers such as Jinko, Yingli, and Trina, superseding older cell structures such as aluminium Back Surface Field (Al-BSF).
+
+     Half cut cells are another advancement in solar technology which has recently penetrated commercial solar applications and are rapidly becoming standard. While not as industry-shaking as the development of PERC cells, the uses and benefits of half cut cells have been a lot more immediately apparent in a commercial sense. This has led to a faster adoption rate in the industry, with 120 and 144 cell modules becoming increasingly common. `August 31, 2020 by GSES`
+
+*   [How do Half Cut Cells Work While Shaded?](https://www.gses.com.au/how-do-half-cut-solar-cells-work-while-shaded/) - In a follow on to last years technical article on High Efficiency Cells: PERC and Half Cut, We have produced a video to easily understand how half cut solar cells work while shaded. The new developments and increasing complexity of solar panels makes this technology easily confused. Our latest video aims to clear things up. `March 15, 2021 by GSES`
 
 ## Online Courses
 
